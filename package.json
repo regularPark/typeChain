@@ -1,0 +1,25 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regularPark/typeChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regularPark/typeChain/issues"
+  },
+  "homepage": "https://github.com/regularPark/typeChain#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
